@@ -5,7 +5,7 @@ The principal target are descentralization in many process in the real world, wi
 
 We develop technical solutions for IPFS, oracles, Tokens, Smart Contracts, Dapps and all artefacts that help us to descentralize a process.
 
-Welcome comunity to develop inside the blockchain world.
+Welcome community and develop inside the blockchain world.
 
 
 
